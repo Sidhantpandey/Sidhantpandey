@@ -5,7 +5,7 @@
 
 
 ## 💫 About Me:
-<img align="right" alt="Coding" width="250" height="250" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
+<img align="right" alt="Coding" width="225" height="225" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
 <p align="left">
   
 <br>🌟 Aspiring Web Developer | MERN Stack |  Data Structures and Algorithms | Machine Learning Enthusiast
