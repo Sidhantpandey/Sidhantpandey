@@ -8,9 +8,7 @@
 <img align="right" alt="Coding" width="225" height="225" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
 <p align="left">
   
-<br>🌟 Aspiring Web Developer | MERN Stack |  Data Structures and Algorithms | Machine Learning Enthusiast
-<br><br>🌐 Currently Learning Backend Development
-<br><br>🌱 Upcoming Projects - FoodyBuzz , Chat App, A ChatBot
+<br>🌟 Web Developer | MERN Stack |  Data Structures and Algorithms |
 <br><br>💬Let Connect !<br>
 </p>
 <br>
