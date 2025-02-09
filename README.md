@@ -15,6 +15,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sidhantpandey" alt="Sidhantpandey" /> </p> 
 
+### 🏆 **GitHub Trophies:**
+![](https://github-profile-trophy.vercel.app/?username=Sidhantpandey&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
 # 📊 GitHub Stats:<br><br>
 <p align="center">
 <img width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhantpandey&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">__
