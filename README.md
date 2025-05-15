@@ -1,6 +1,6 @@
 # Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Sidhant Pandey ! 
 
-<h2>  Always Learning and Applying.......  </h2> 
+<h2>  Build What It Means ......  </h2> 
 
 
 
@@ -8,8 +8,8 @@
 <img align="right" alt="Coding" width="225" height="225" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
 <p align="left">
   
-<br>🌟 Web Developer | MERN Stack |  Data Structures and Algorithms |
-<br><br>💬Let Connect !<br>
+<br>🌟 Web Developer | Node.js, Express.js, SQL  |  Data Structures and Algorithms |
+<br><br>💬Let Connect and Code Together !<br>
 </p>
 <br>
 
