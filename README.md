@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="225" height="225" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
 <p align="left">
   
-<br>🌟 Web Developer | Node.js, Express.js, SQL  |  Data Structures and Algorithms |
+<br>🌟 Web Developer and Web3 Enthusiast | Node.js, Express.js, SQL  |  Data Structures and Algorithms |
 <br><br>💬Let Connect and Code Together !<br>
 </p>
 <br>
