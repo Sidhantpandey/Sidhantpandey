@@ -1,6 +1,6 @@
 # Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Sidhant Pandey ! 
 
-<h2>  Build What It Means ......  </h2> 
+<h2>  Build What It Means ........  </h2> 
 
 
 
@@ -8,8 +8,8 @@
 <img align="right" alt="Coding" width="225" height="225" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
 <p align="left">
   
-<br>🌟 Web Developer and Web3 Enthusiast | Node.js, Express.js, SQL  |  Data Structures and Algorithms |
-<br><br>💬Let Connect and Code Together !<br>
+<br>🌟 Developer and Web3 Enthusiast | Node.js, Express.js, SQL , React, ORMs  |  Data Structures and Algorithms |
+<br><br>💬Let Connect and Make Powerful Softwares ! Simply like a Sniff  !<br>
 </p>
 <br>
 
@@ -31,10 +31,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,git,github,vscode,c&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,git,github,vscode,postman,sql,redis,prisma,insomnia,jest,python,c,cpp&perline=13)](#)
 
 ## 🌐 Lets connect:
- <a href="https://johnmwendwa.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.sidhantpandey720@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254747237927" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="www.linkedin.com/in/sidhant-pandey-2803a5275"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+ <a href="https://johnmwendwa.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.sidhantpandey720@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254747237927" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="[www.linkedin.com/in/sidhant-pandey-2803a5275](https://www.linkedin.com/in/sidhant-pandey-2803a5275/)"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
 
 <hr>
