@@ -12,7 +12,6 @@
 <br><br>💬 Build What It Means ........ !<br>
 - I am  a core member at <a href="https://www.linkedin.com/company/nscckiet/posts/?feedView=all">CPBYTE</a>!
 - Discuss about Javascript, Backend , Node.js etc .
-- Foodie ! 
 </p>
 <br>
 
