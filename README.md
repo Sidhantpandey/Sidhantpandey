@@ -22,14 +22,6 @@
 
 ---
 
-# 📊 GitHub Stats:<br><br>
-<p align="center">
-<img width="350"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhantpandey&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">__
-</p>
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=Sidhantpandey&show_icons=true&theme=vision-friendly-dark">
-  <img width="415" height="200" src = "https://github-readme-streak-stats.herokuapp.com/?user=Sidhantpandey&hide_border=false&theme=vision-friendly-dark">
-</p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 
