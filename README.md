@@ -10,7 +10,6 @@
   
 <br>🌟 Developer and Web3 Enthusiast | Node.js, Express.js, SQL , React, ORMs  |  Data Structures and Algorithms |
 <br><br>💬 Build What It Means ........ !<br>
-- I am  a core member at <a href="https://www.linkedin.com/company/nscckiet/posts/?feedView=all">CPBYTE</a>!
 - Discuss about Javascript, Backend , Node.js etc .
 </p>
 <br>
