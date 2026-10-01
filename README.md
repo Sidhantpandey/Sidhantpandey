@@ -8,9 +8,11 @@
 <img align="right" alt="Coding" width="225" height="225" src="https://media1.tenor.com/m/WkgpyPpxpDUAAAAd/work-internet.gif">
 <p align="left">
   
-<br>🌟 Developer and Web3 Enthusiast | Node.js, Express.js, SQL , React, ORMs  |  Data Structures and Algorithms |
+<br>🌟 Software Engineer | Node.js, Express.js, SQL , React, ORMs, DBMS, High Level Designs | 4 Internships under the belt
 <br><br>💬 Build What It Means ........ !<br>
-- Discuss about Javascript, Backend , Node.js etc .
+- Discuss about geopolitics
+- Talk to me everything other than tech
+- Lazy developer who works only after having 9 hrs of sleep
 </p>
 <br>
 
@@ -27,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,git,github,vscode,postman,redis,prisma,jest,python,c,cpp&perline=13)](#)
 
 ## 🌐 Lets connect:
- <a href="https://johnmwendwa.com" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.sidhantpandey720@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/254747237927" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="[www.linkedin.com/in/sidhant-pandey-2803a5275](https://www.linkedin.com/in/sidhant-pandey-2803a5275/)"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
+ <a href="https://portfolio-git-main-sidhantpandeys-projects.vercel.app/" title="Portfolio"><img alt="Email"  src="https://img.shields.io/badge/website-f59042?style=for-the-badge&logo=About.me&logoColor=white" height="30" align="center"/></a> <a href="mailto:dev.sidhantpandey720@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a><a href="https://www.linkedin.com/in/sidhant-pandey-2803a5275/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a> 
 
 
 <hr>
