@@ -16,10 +16,75 @@
 </p>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sidhantpandey" alt="Sidhantpandey" /> </p> 
+## 💼 Experience
 
-### 🏆 **GitHub Trophies:**
-![](https://github-profile-trophy.vercel.app/?username=Sidhantpandey&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<table>
+<tr>
+<th></th>
+<th align="left">Role</th>
+<th align="left">Organization</th>
+<th align="left">Impact & Stack</th>
+</tr>
+
+<tr>
+<td>🟣</td>
+<td>
+<b>Software Engineering Program Intern</b><br>
+<sub>Jun – Jul (2026)</sub>
+</td>
+<td>
+<b>JPMorganChase</b><br>
+<sub>India</sub>
+</td>
+<td>
+• Built fault-tolerant backend integrations with <b>exponential backoff<br>
+• Resolved <b> major production bugs</b> and critical database connectivity issues<br>
+• Fixed deployment failures and established reliable release processes<br>
+• Improved database connection efficiency and query performances.
+</td>
+</tr>
+
+<tr>
+<td>🔵</td>
+<td>
+<b>Software Development Intern</b><br>
+<sub>Oct 2025 – Feb 2026</sub>
+</td>
+<td>
+<b>TheCodeWork</b>
+</td>
+<td>
+• Architected reusable backend services across <b>3+ product modules</b><br>
+• Built email and push notification pipelines using <b>BullMQ, OneSignal & Twilio</b><br>
+• Integrated <b>Twilio SMS</b> and <b>Pusher WebSockets</b> for real-time communication<br>
+• Improved payment reliability with webhook validation and <b>idempotent retries</b><br>
+• Enhanced observability using <b>Pino structured logging, request tracing & trace IDs</b>
+</td>
+</tr>
+
+<tr>
+<td>🟢</td>
+<td>
+<b>Software Development Intern</b><br>
+<sub>Jun – Sept (2025)</sub>
+</td>
+<td>
+<b>GramIQ</b>
+</td>
+<td>
+• Engineered <b>20+ REST APIs</b> using <b>Node.js & Express.js</b> for farmer and multi-admin dashboards<br>
+• Integrated <b>Redis caching</b> and <b>Cloudinary</b> media management<br>
+• Automated admin onboarding with referral codes and email notifications using <b>Nodemailer & Brevo</b>
+</td>
+</tr>
+
+</table>
+
+<hr>
+
+### 🐍 Contribution Graph
+
+![Contribution Snake](https://raw.githubusercontent.com/Sidhantpandey/Sidhantpandey/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
